@@ -1,28 +1,34 @@
-# Challenge GD4H
+# Challenge GD4H - Nom du défi
 
 **courte description GD4H** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 _lien vers le site vitrine<br>
 _lien vers le forum
 
-## Nom du projet
+## Nom du défi
 
-**courte description projet** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**courte description défi** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-_lien vers la page défi
+_lien vers la page du défi associé
 
-## Documentation
+## **Documentation**
 
-**Description Solution** vite au lancement | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Description Solution** vide au lancement | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Installation
+### **Installation**
 
-**Guide d'installation** Vide au lancement Lorem | ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[Guide d'installation](/INSTALL.md)
 
-### Contributions
+### **Utilisation**
 
-_lien vers contributing.md
+**documentation d'utilisation de la solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Licence
+### **Contributions**
 
-_lien veers licence
+Si vous souhaitez contribuer à ce projet, merci de suivre les [recommendations](/CONTRIBUTING.md).
+
+### **Licence**
+
+Le code est publié sous licence [MIT](/LICENSE).
+
+Les données référencés dans ce README et dans le guide d'installation sont publiés sous licence _
