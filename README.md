@@ -1,34 +1,34 @@
-# Challenge GD4H - Nom du défi
+# Challenge GD4H - challenge name
 
-**courte description GD4H** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**short description GD4H** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 _lien vers le site vitrine<br>
 _lien vers le forum
 
-## Nom du défi
+## challenge name
 
-**courte description défi** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**short description défi** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 _lien vers la page du défi associé
 
 ## **Documentation**
 
-**Description Solution** vide au lancement | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**short description of the olution** empty at launch | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### **Installation**
 
-[Guide d'installation](/INSTALL.md)
+[Installation Guide](/INSTALL.md)
 
-### **Utilisation**
+### **Usage**
 
-**documentation d'utilisation de la solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**usage documentation of the solution** empty at launch | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### **Contributions**
+### **Contributing**
 
-Si vous souhaitez contribuer à ce projet, merci de suivre les [recommendations](/CONTRIBUTING.md).
+If you wish to conribute to this project, please follow the [recommendations](/CONTRIBUTING.md).
 
 ### **Licence**
 
-Le code est publié sous licence [MIT](/LICENSE).
+The code is published under [MIT Licence](/LICENSES/LICENSE.MIT).
 
-Les données référencés dans ce README et dans le guide d'installation sont publiés sous licence _
+The data referenced in this README and in the installation guide is published under license _
