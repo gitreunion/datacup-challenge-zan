@@ -32,6 +32,6 @@ Si vous souhaitez contribuer à ce projet, merci de suivre les [recommendations]
 
 ### **Licence**
 
-Le code est publié sous licence [MIT](/LICENSES/LICENSE.MIT).
+Le code est publié sous licence [MIT](/LICENSE).
 
-Les données référencés dans ce README et dans le guide d'installation sont publiés sous licence _
+Les données référencés dans ce README et dans le guide d'installation sont publiés sous <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf">Licence Ouverte 2.0</a>.

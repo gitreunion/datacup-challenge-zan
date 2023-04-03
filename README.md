@@ -34,6 +34,6 @@ If you wish to conribute to this project, please follow the [recommendations](/C
 
 ### **Licence**
 
-The code is published under [MIT Licence](/LICENSES/LICENSE.MIT).
+The code is published under [MIT Licence](/LICENSE).
 
-The data referenced in this README and in the installation guide is published under license _
+The data referenced in this README and in the installation guide is published under <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf">Open Licence 2.0</a>.
