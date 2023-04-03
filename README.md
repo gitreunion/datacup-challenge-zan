@@ -1,19 +1,22 @@
 # Challenge GD4H - challenge name
 
-**short description GD4H** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Green Data for Health (GD4H) is a service offer incubated within the ECOLAB, innovation laboratory for the ecological transition of the Commissariat Général au Développement Durable (General Commission for Sustainable Development).
 
-_lien vers le site vitrine<br>
-_lien vers le forum
+It organizes a challenge allowing the development of tools rooted in the health-environment data community in order to address shared issues.
+
+Links : 
+<a href="https://challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Website</a> /
+<a href="https://forum.challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Forum</a>
 
 ## challenge name
 
-**short description défi** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**short description challenge** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-_lien vers la page du défi associé
+_inclus le lien vers la page du défi associé
 
 ## **Documentation**
 
-**short description of the olution** empty at launch | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**short description of the olution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### **Installation**
 
@@ -21,7 +24,7 @@ _lien vers la page du défi associé
 
 ### **Usage**
 
-**usage documentation of the solution** empty at launch | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**usage documentation of the solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### **Contributing**
 
