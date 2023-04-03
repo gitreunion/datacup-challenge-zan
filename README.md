@@ -1,5 +1,7 @@
 # Challenge GD4H - challenge name
 
+*For a french translated version of this file, please follow this [link](/README.fr.md)*
+
 Green Data for Health (GD4H) is a service offer incubated within the ECOLAB, innovation laboratory for the ecological transition of the Commissariat Général au Développement Durable (General Commission for Sustainable Development).
 
 It organizes a challenge allowing the development of tools rooted in the health-environment data community in order to address shared issues.
