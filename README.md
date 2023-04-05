@@ -12,13 +12,11 @@ Liens :
 
 ## Nom du défi
 
-**courte description défi** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-_inclus le lien vers la page du défi associé
+>TODO / **courte description défi**
 
 ## **Documentation**
 
-**Description Solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>TODO / **Description Solution**
 
 ### **Installation**
 
@@ -26,7 +24,7 @@ _inclus le lien vers la page du défi associé
 
 ### **Utilisation**
 
-**documentation d'utilisation de la solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>TODO / **documentation d'utilisation de la solution**
 
 ### **Contributions**
 

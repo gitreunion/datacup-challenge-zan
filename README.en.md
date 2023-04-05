@@ -12,13 +12,11 @@ Links :
 
 ## challenge name
 
-**short description challenge** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-_inclus le lien vers la page du défi associé
+>TODO / **short description challenge**
 
 ## **Documentation**
 
-**short description of the olution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>TODO / **short description of the solution**
 
 ### **Installation**
 
@@ -26,7 +24,7 @@ _inclus le lien vers la page du défi associé
 
 ### **Usage**
 
-**usage documentation of the solution** | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>TODO / **usage documentation of the solution**
 
 ### **Contributing**
 
