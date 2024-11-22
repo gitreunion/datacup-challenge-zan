@@ -1,22 +1,21 @@
-# Challenge GD4H - Nom du défi
+# La Réunion DataCup Challenge 2024 - Nom de l'équipe
 
-*For an english translated version of this file, follow this [link](/README.en.md)*
+La <a href="[https://data.regionreunion.com/p/page-reunion-datacup-challenge](https://data.regionreunion.com/p/page-reunion-datacup-challenge)" target="_blank" rel="noreferrer">Réunion DataCup Challenge</a> (GD4H) est un événement unique où toutes les compétences en manipulation de données sont mises à l’honneur : extraction, traitement, modélisation… Porté par la Région Réunion, La Réunion DataCup Challenge s'inscrit dans un cadre de coopération avec les producteurs de données du territoire souhaitant ouvrir, mutualiser et valoriser leurs données. Les thématiques des partenaires sont variées : de la préservation des ressources à l’économie, ou encore des préoccupations des collectivités territoriales et de leurs habitants.
 
-Le <a href="https://gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Green Data for Health</a> (GD4H) est une offre de service incubée au sein de l’ECOLAB, laboratoire d’innovation pour la transition écologique du Commissariat Général au Développement Durable.
+L’objectif de cette seconde édition est de continuer à fédérer une communauté autour des données ouvertes du territoire ainsi qu'initier des projets pérennisables et utiles au plus grand nombre.
 
-Elle organise un challenge permettant le développement d’outils ancrés dans la communauté de la donnée en santé-environnement afin d’adresser des problématiques partagées.
 
-Liens : 
-<a href="https://challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Site</a> / 
-<a href="https://forum.challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Forum</a>
+## Nom de l'équipe
 
-## Nom du défi
+Notre équipe a choisi de répondre au défi ... porté par ....
+Ce défi s'inscrit ... (rappeler le contexte).
+Il a pour objectif de ... (rappeler l'objectif).
 
->TODO / **courte description défi**
+
 
 ## **Documentation**
 
->TODO / **Description Solution**
+Notre solution répond au problème ... . Elle consiste à ... . Cette solution s'adresse à ... .
 
 ### **Installation**
 
