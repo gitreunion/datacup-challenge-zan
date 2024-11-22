@@ -1,12 +1,6 @@
-# Challenge GD4H - challenge name
+# La Réunion DataCup Challenge - team name
 
-<a href="https://gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Green Data for Health</a> (GD4H) is a service offer incubated within the ECOLAB, innovation laboratory for the ecological transition of the Commissariat Général au Développement Durable (General Commission for Sustainable Development).
-
-It organizes a challenge allowing the development of tools rooted in the health-environment data community in order to address shared issues.
-
-Links : 
-<a href="https://challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Website</a> /
-<a href="https://forum.challenge.gd4h.ecologie.gouv.fr/" target="_blank" rel="noreferrer">Forum</a>
+You can traduct your french readme.
 
 ## challenge name
 
